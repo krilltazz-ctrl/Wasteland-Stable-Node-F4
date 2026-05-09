@@ -1,0 +1,51 @@
+2026-03-22 13:00:29,112 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:00:30,567 | NPC: Settler | LOC: Sanctuary Hills | MSG: Seen anything strange lately? | REPLY: Just another day scavenging for water and food; the settlement's been quiet as usual. No signs of danger so far today. How about you, noticed any oddities in your travels around New Haven Bay or anywhere else on this vast wasteland we call home?
+2026-03-22 13:09:15,430 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:09:16,900 | NPC: Settler | LOC: Sanctuary Hills | MSG: Seen anything strange lately? | REPLY: I've noticed an uptick in radio communication interference and some odd figures skirting the outskirts at nightfall. Seemingly uninhabited, they vanish before I can identify them properly. Sanctuary Hills feels more ominous tonight than usual
+2026-03-22 13:15:38,386 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:15:39,081 | NPC: Settler | LOC: Diamond City | VOICE: female | REPLY: Just heard rumors of water shortages and increased raider activity near the Middenmouth Swamp; better stock up on supplies soon.
+2026-03-22 13:15:57,147 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:15:58,624 | NPC: Settler | LOC: Sanctuary Hills | VOICE: male | REPLY: Scarce and dangerous here; supplies dwindling daily as the settlement fights for survival against both harsh weather and raiders alike. I'm barely holding on, just scraping by to keep everyone fed and safe from Marauders in this godforsaken
+2026-03-22 13:16:57,612 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:16:58,095 | NPC: Settler | LOC: Sanctuary Hills | VOICE: male | REPLY: Hungry and looking for water to refill my canteen. How about you?
+2026-03-22 13:17:20,161 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:17:21,642 | NPC: Settler | LOC: Diamond City | VOICE: female | REPLY: A new settlement is forming on the outskirts of Diamond City amid reports that it may soon become a significant hub for trade and resource gathering. The settlers have started stockpiling food, water, and weapons to prepare against potential threats from wandering creatures or rival fa
+2026-03-22 13:17:43,755 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:17:44,455 | NPC: Settler | LOC: Sanctuary Hills | VOICE: male | REPLY: I'm hunkering down for survival; the Vaults aren't exactly inviting right now. How about you?
+2026-03-22 13:30:50,919 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-22 13:30:50,936 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-03-22 13:30:51,736 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-03-22 13:30:51,736 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-22 13:31:18,629 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:31:19,386 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/am_adam.pt "HTTP/1.1 302 Found"
+2026-03-22 13:31:19,547 | NPC: Settler | LOC: Sanctuary Hills | VOICE: male | REPLY: No unusual sightings today; just the usual scavenging and survival routine here in post-apocalyptic New California. Hope you're doing better out there!
+2026-03-22 13:32:02,061 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:32:02,288 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/af_heart.pt "HTTP/1.1 302 Found"
+2026-03-22 13:32:03,542 | NPC: Settler | LOC: Diamond City | VOICE: female | REPLY: "Hey there! Just heard about another raider attack on Fort Hargon; they got lucky this time though."
+
+"Talked to Old Nick today, and he thinks we might have an ally in Skooma Heads. But with all the uncertainty around power
+2026-03-22 13:32:24,124 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:32:24,950 | NPC: Settler | LOC: Sanctuary Hills | VOICE: male | REPLY: I'm managing to keep my head above the rubble here in Sanctuary Hills; what about you? How can I assist with your quest today?
+2026-03-22 13:42:30,619 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-22 13:42:30,635 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-03-22 13:42:31,426 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-03-22 13:46:24,551 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-22 13:46:24,583 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-03-22 13:46:25,285 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-03-22 13:47:11,601 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:47:12,619 | NPC: Settler | LOC: Sanctuary Hills | VOICE: am_adam | REPLY: Barely surviving another day; the mutants seem to be getting stronger by the scrap, but we hold on for now in Sanctuary Hills amidst this wasteland chaos.
+2026-03-22 13:47:12,712 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/am_adam.pt "HTTP/1.1 302 Found"
+2026-03-22 13:47:12,712 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-22 13:48:38,743 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:48:40,176 | NPC: Settler | LOC: Sanctuary Hills | VOICE: am_adam | REPLY: Barely hanging on amidst the ruins of a once thriving society, I trudge through Sanctuary Hills daily, scavenging for essentials to survive another day in this desolate world post-nuclear fallout.
+2026-03-22 13:49:38,093 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:49:39,002 | NPC: Settler | LOC: Sanctuary Hills | VOICE: am_adam | REPLY: Hunger's constant companion since the Great War; survival here is a daily game of chance, where even kindness can be costly currency in Sanctuary Hills.
+2026-03-22 13:54:06,681 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-22 13:54:06,697 | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-03-22 13:54:07,420 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-03-22 13:54:13,702 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:54:14,101 | HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/am_adam.pt "HTTP/1.1 302 Found"
+2026-03-22 13:54:14,101 | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-22 13:54:14,783 | NPC: Sturges | LOC: Sanctuary Hills | VOICE: am_adam | REPLY: Things bein' alright, thank you for askin'. How 'bout yas? What brings joy to your life today? Maybe we can find somethin' positive in the world together!
+2026-03-22 13:54:54,141 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-22 13:54:55,060 | NPC: Codsworth | LOC: Sanctuary Hills | VOICE: robot | REPLY: Good day to you! I am functioning optimally within my parameters and ready for any task at hand. How might I assist thee on this fine occasion, sir or madam?
